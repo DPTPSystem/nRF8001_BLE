@@ -51,7 +51,34 @@ alkalmazást, amely a 4.0-ás vagy magasabb android verziójú telefonoknál ké
 
 
 # Program
+A program működése rendkívűl egyszerű. Egy végtelen ciklusban várakozik és figyeli, hogy érkezik e a bluetooth chiptől vagy UART felől valamilyen
+adat. Annak megfelelően, hogy éppen az nRF8001 vagy külső UART-ról érkezik adat, a célzott feltétel lefut és kiértékelődik az érkezett adat.
 
+Ha az nRF8001-re érkezik adat:
+
+```
+if(!RDYN){
+	// további kód része
+		}
+```
+Ha UART-on érkezik adat a következő struktúrát kell követnünk:
+
+```
+if(DataRdyUSART()){
+			result = read_uart();
+			if(result=='c'){
+				//Homerseklet lekerese
+			}else if(result=='b'){  
+				//Command: Bond
+			}else if(result=='s'){  
+				//Command: Connect
+			}else{
+				// Adat küldés
+			}
+		 }
+```
+
+Mind a kettő esetben a nRFDataBuffer nevű változó (tömb) tartalmazza az érkezett adatokat.
 
 # Kapcsolodó videós tartalmak
 DPTP System - nRF8001 Bluetooth kapcsolat
