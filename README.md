@@ -82,8 +82,10 @@ Mind a kettő esetben a nRFDataBuffer nevű változó (tömb) tartalmazza az ér
 
 # Kapcsolodó videós tartalmak
 DPTP System - nRF8001 Bluetooth kapcsolat
+
 [![DPTP System - nRF8001 Bluetooth kapcsolat](https://img.youtube.com/vi/UjtZtTLGWQU/0.jpg)](https://www.youtube.com/watch?v=UjtZtTLGWQU)
 
 DPTP System - nRF8001 - Android kapcsolat
+
 [![DPTP System - nRF8001 Android kapcsolat](https://img.youtube.com/vi/Bq7xkpVMoTk/0.jpg)](https://www.youtube.com/watch?v=Bq7xkpVMoTk)
 
