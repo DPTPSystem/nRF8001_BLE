@@ -4,7 +4,7 @@
 * Projekt keletkezése: 2014-12-25.
 * PIC18F24K22 - nRF8001 BLE - MPLAB IDE 8.91 - C18
 
-![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_5.jpg "DPTP System nRF8001")
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_3.jpg "DPTP System nRF8001")
 
 # Miért
 Egy magyarországi fejlesztő csapat keresett meg egy olyan okos karorával kapcsolatos fejlesztésük keretein belül, amely a viselő bőrtípusától
@@ -43,7 +43,7 @@ alkalmazást, amely a 4.0-ás vagy magasabb android verziójú telefonoknál ké
 
 ![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_2.jpg "DPTP System nRF8001")
 
-![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_3.jpg "DPTP System nRF8001")
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_5.jpg "DPTP System nRF8001")
 
 ![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_4.jpg "DPTP System nRF8001")
 
