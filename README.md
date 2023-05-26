@@ -4,7 +4,7 @@
 * Projekt keletkezése: 2014-12-25.
 * PIC18F24K22 - nRF8001 BLE - MPLAB IDE 8.91 - C18
 
-![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/131744_dptp_bga_gep.jpg "DPTP System nRF8001")
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_5.jpg "DPTP System nRF8001")
 
 # Miért
 Egy magyarországi fejlesztő csapat keresett meg egy olyan okos karorával kapcsolatos fejlesztésük keretein belül, amely a viselő bőrtípusától
@@ -26,7 +26,7 @@ küldeni és fogadni. Ezen adatokat valamilyen módon fény vagy másként jelez
 A hardver faék egyszerű egy PIC18F24K22, nRF8001 és a hozzá tartozó gyártói oldalról ajánlott elemek (kondig, tekercsek és ellenállások), illetve 
 néhány kiegészítő alkatrész, mint LED vagy UART kivezetése. UART csatlakozásra egy külön USB/UART átalakító adaptert használtam.
 
-# PC
+# PC ás Android
 A program és a hardver tesztelése céljából készítettem egy windows alkalmazást, amely csak az UART-os soros kommunikáció egyfajta köztes állomása
 volt, hogy megfelelően tudjam az egyes parancs teszteket végig vinni. Ezen felül használtam egy ingyenes android telefonokra elérhető nRF UART v2.0-es
 alkalmazást, amely a 4.0-ás vagy magasabb android verziójú telefonoknál képes a BLE bluetooth kapcsolatokat megteremteni.
@@ -36,6 +36,18 @@ alkalmazást, amely a 4.0-ás vagy magasabb android verziójú telefonoknál ké
 # Nyáktervek
 
 ![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nRF8001.PNG "DPTP System nRF8001")
+
+# PCB
+
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_1.jpg "DPTP System nRF8001")
+
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_2.jpg "DPTP System nRF8001")
+
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_3.jpg "DPTP System nRF8001")
+
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_4.jpg "DPTP System nRF8001")
+
+![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nrf8001_6.jpg "DPTP System nRF8001")
 
 
 # Program
