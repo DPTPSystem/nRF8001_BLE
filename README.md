@@ -31,8 +31,6 @@ A program és a hardver tesztelése céljából készítettem egy windows alkalm
 volt, hogy megfelelően tudjam az egyes parancs teszteket végig vinni. Ezen felül használtam egy ingyenes android telefonokra elérhető nRF UART v2.0-es
 alkalmazást, amely a 4.0-ás vagy magasabb android verziójú telefonoknál képes a BLE bluetooth kapcsolatokat megteremteni.
 
-![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/14484406329764_b.jpg "DPTP System nRF8001")
-
 # Nyáktervek
 
 ![DPTP System nRF8001](https://github.com/DPTPSystem/nRF8001_BLE/blob/master/images/nRF8001.PNG "DPTP System nRF8001")
